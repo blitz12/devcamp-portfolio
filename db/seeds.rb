@@ -25,4 +25,4 @@ puts "5 skills created"
     thumb_image:"http://via.placeholder.com/350x200"
   )
 
-puts "9 portfolio items created"
+end
