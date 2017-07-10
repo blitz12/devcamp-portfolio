@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/blitz12/devcamp_new_view_tool
+  revision: a33452ed049b2af30184de405cbbfee7b3db58aa
+  specs:
+    devcamp_new_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -186,6 +192,7 @@ DEPENDENCIES
   bootstrap (~> 4.0.0.alpha6)
   byebug
   coffee-rails (~> 4.2)
+  devcamp_new_view_tool!
   devise (~> 4.3)
   friendly_id (~> 5.1.0)
   jbuilder (~> 2.5)
